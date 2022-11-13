@@ -93,7 +93,7 @@
     "jest-haste-map": "^27.3.1",
     "jest-resolve": "^27.3.1",
     "madge": "^5.0.1",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "mkdirp": "^1.0.4",
     "prettier": "^2.4.1",
     "rimraf": "^3.0.2",
